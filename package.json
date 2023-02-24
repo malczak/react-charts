@@ -1,11 +1,14 @@
 {
-  "name": "react-charts",
-  "version": "1.0.0-semantic-release",
+  "name": "@malczak/react-charts",
+  "version": "1.0.1-semantic-release",
   "description": "Simple, immersive & interactive charts for React. Flexible, declarative, and highly configurable.",
   "author": "tannerlinsley",
   "license": "MIT",
-  "repository": "tannerlinsley/react-charts",
+  "repository": "https://github.com/malczak/react-charts",
   "homepage": "https://github.com/tannerlinsley/react-charts#readme",
+"publishConfig": {
+  "registry": "https://npm.pkg.github.com"
+},
   "funding": {
     "type": "github",
     "url": "https://github.com/sponsors/tannerlinsley"
